@@ -1,0 +1,10 @@
+[package]
+name = "actix_lua_test"
+version = "0.1.0"
+
+[dependencies]
+actix = "0.7.3"
+actix-web = "0.7.4"
+actix-lua = "0.5.1"
+futures = "0.1.23"
+rlua = "0.15"
